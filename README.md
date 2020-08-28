@@ -5,7 +5,7 @@ link
 
 <h1>HTML Links</h1>
 
-<p><a href="https://github.com/"</a></p>
+<p><a href="https://github.com/">Visit Github.com!</a></p>
 
 </body>
 </html>
